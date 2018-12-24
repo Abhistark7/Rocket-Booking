@@ -21,5 +21,5 @@ To access the page, import the sql, move the rocket folder to xampp/htdocs and v
 ## Review Booking
 ![](screenshots/5ReviewBooking.PNG)
 
-## Ticked Booked
+## Ticket Booked
 ![](screenshots/6moonBookedNew.PNG)
