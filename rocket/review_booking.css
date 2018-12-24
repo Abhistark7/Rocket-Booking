@@ -1,0 +1,230 @@
+* {
+        margin: 0;
+        padding: 0;
+        border: 0;
+        outline: 0;
+        font-size: 100%;
+
+}
+.redTab {
+    background-color: #E2120D;
+    height: 60px;
+    padding: 0px;
+    margin-top: 0px;
+    box-shadow: 0px 1px 20px #888888;
+}
+
+.book_text_heading {
+    color: white;
+    font-family: Montserrat;
+    align-self: center;
+    padding-left: 30px;
+    padding-top: 18px;
+    font-size: 20px
+}
+
+.review_title {
+    text-align: center;
+    padding-top: 100px;
+    padding-bottom: 50px;
+    font-family: Montserrat;
+    font-weight: 600;
+    color: #565656;
+    font-size: 25px;
+}
+
+.enter_name {
+    width: 900px;
+    margin-left: auto;
+    margin-right: auto;
+    align-content: center;
+    margin-top: 40px;
+    height: 60px;
+    border-radius: 5px 5px 5px 5px;
+    box-shadow: 0px 2px 5px #b9b9b9;
+}
+
+.name_text {
+    text-align: left;
+    padding-top: 20px;
+    font-family: Montserrat;
+    font-weight: 600;
+    color: #000000;
+    font-size: 18px;
+    padding-left: 40px;
+    float: left;
+}
+
+.name_val {
+    text-align: left;
+    padding-top: 20px;
+    font-family: Montserrat;
+    font-weight: 600;
+    color: #0077FF;
+    padding-right: 40px;
+    font-size: 18px;
+    float: right;
+}
+
+
+
+.sel_date {
+    width: 900px;
+    margin-left: auto;
+    margin-right: auto;
+    align-content: center;
+    margin-top: 40px;
+    height: 60px;
+    border-radius: 5px 5px 5px 5px;
+    box-shadow: 0px 2px 5px #b9b9b9;
+}
+
+
+
+.sel_date_text {
+    text-align: left;
+    padding-top: 20px;
+    font-family: Montserrat;
+    font-weight: 600;
+    color: #000000;
+    font-size: 18px;
+    padding-left: 40px;
+    float: left;
+}
+
+.sel_date_val {
+    text-align: left;
+    padding-top: 20px;
+    font-family: Montserrat;
+    font-weight: 600;
+    color: #0077FF;
+    padding-right: 40px;
+    font-size: 18px;
+    float: right;
+}
+
+.sel_rocket {
+    width: 900px;
+    margin-left: auto;
+    margin-right: auto;
+    align-content: center;
+    margin-top: 40px;
+    height: 60px;
+    border-radius: 5px 5px 5px 5px;
+    box-shadow: 0px 2px 5px #b9b9b9;
+}
+
+
+.sel_rocket_text {
+    text-align: left;
+    padding-top: 20px;
+    font-family: Montserrat;
+    font-weight: 600;
+    color: #000000;
+    font-size: 18px;
+    padding-left: 40px;
+    float: left;
+}
+
+.sel_rocket_val {
+    text-align: left;
+    padding-top: 20px;
+    font-family: Montserrat;
+    font-weight: 600;
+    color: #0077FF;
+    padding-right: 40px;
+    font-size: 18px;
+    float: right;
+}
+
+.sel_seats {
+     width: 900px;
+    margin-left: auto;
+    margin-right: auto;
+    align-content: center;
+    margin-top: 40px;
+    height: 60px;
+    border-radius: 5px 5px 5px 5px;
+    box-shadow: 0px 2px 5px #b9b9b9;
+}
+
+.sel_seats_text {
+    text-align: left;
+    padding-top: 20px;
+    font-family: Montserrat;
+    font-weight: 600;
+    color: #000000;
+    font-size: 18px;
+    padding-left: 40px;
+    float: left;
+}
+
+.sel_seats_val {
+    text-align: left;
+    padding-top: 20px;
+    font-family: Montserrat;
+    font-weight: 600;
+    color: #0077FF;
+    padding-right: 40px;
+    font-size: 18px;
+    float: right;
+}
+
+.est_cost {
+    width: 900px;
+    margin-left: auto;
+    margin-right: auto;
+    align-content: center;
+    margin-top: 40px;
+    height: 60px;
+    border-radius: 5px 5px 5px 5px;
+    box-shadow: 0px 2px 5px #b9b9b9;
+}
+
+.est_cost_text {
+     text-align: left;
+    padding-top: 20px;
+    font-family: Montserrat;
+    font-weight: 600;
+    color: #000000;
+    font-size: 18px;
+    padding-left: 40px;
+    float: left;
+}
+
+.est_cost_val {
+   text-align: left;
+    padding-top: 20px;
+    font-family: Montserrat;
+    font-weight: 600;
+    color: #0077FF;
+    padding-right: 40px;
+    font-size: 18px;
+    float: right;
+}
+
+.confirm_detail {
+    text-align: center;
+    padding-top: 50px;
+    font-family: Montserrat;
+    font-weight: 500;
+    color: #B4B4B4;
+    font-size: 18px;
+}
+
+.next_button {
+     width: 900px;
+    margin-left: auto;
+    margin-right: auto;
+    padding-left: 00px;
+    align-content: center;
+    margin-top: 80px;
+    margin-bottom: 80px;
+}
+
+#go_button {
+    margin-left: auto;
+	margin-right: auto;
+	margin-left: 330px;
+}
+

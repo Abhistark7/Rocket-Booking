@@ -1,0 +1,144 @@
+* {
+        margin: 0;
+        padding: 0;
+        border: 0;
+        outline: 0;
+        font-size: 100%;
+
+}     
+
+body {
+    line-height: 0.6;
+}
+
+.redTab {
+    background-color: #E2120D;
+    height: 60px;
+    padding: 0px;
+    margin-top: 0px;
+    box-shadow: 0px 1px 20px #888888;
+}
+
+.book_text_heading {
+    color: white;
+    font-family: Montserrat;
+    align-self: center;
+    padding-left: 30px;
+    padding-top: 22px;
+    font-size: 20px
+}
+
+
+.booking_heading {
+     text-align: center;
+    padding-top: 50px;
+    font-family: Montserrat;
+    font-weight: 600;
+    color: #565656;
+    font-size: 25px;
+}
+
+.booking-desp1 {
+    text-align: center;
+    padding-top: 60px;
+    font-family: Montserrat;
+    font-weight: 500;
+    color: #B4B4B4;
+    font-size: 18px;
+}
+
+.booking-desp2 {
+    text-align: center;
+    padding-top: 20px;
+    font-family: Montserrat;
+    font-weight: 500;
+    color: #B4B4B4;
+    font-size: 18px;
+}
+
+.booking-desp3 {
+    text-align: center;
+    padding-top: 20px;
+    font-family: Montserrat;
+    font-weight: 500;
+    color: #B4B4B4;
+    font-size: 18px;
+}
+
+.booking-desp4 {
+    text-align: center;
+    padding-top: 20px;
+    font-family: Montserrat;
+    font-weight: 500;
+    color: #B4B4B4;
+    font-size: 18px;
+}
+
+.ticket {
+    margin-top: 50px;
+    margin-left: auto;
+    margin-right: auto;
+    align-content: center;
+    display: block;
+    width: 620px;
+    height: 500px;
+    padding-top:70px;
+    background-image: url('moon_ticket.png');
+}
+
+.tick-name {
+    padding-top: 80px;
+    padding-left: 50px;
+    font-family: Montserrat;
+    font-weight: 600;
+    color: #000000;
+    font-size: 24px;
+}
+
+.tick-rocket {
+    padding-top:25px;
+    padding-left: 50px;
+    font-family: Montserrat;
+    font-weight: 500;
+    color: #000000;
+    font-size: 22px;
+}
+
+.tick-payload {
+    padding-top: 25px;
+    padding-left: 50px;
+    font-family: Montserrat;
+    font-weight: 500;
+    color: #000000;
+    font-size: 22px;
+}
+
+.tick-date {
+    padding-top: 25px;
+    padding-left: 50px;
+    font-family: Montserrat;
+    font-weight: 500;
+    color: #000000;
+    font-size: 22px;
+}
+
+#home_icon {
+    width: 25px;
+    position: absolute;
+    right: 190px;
+    top:16px;
+    
+}
+
+.go_home {
+    color: white;
+    font-family: Montserrat;
+    align-self: center;
+    padding-left: 30px;
+    padding-top: 22px;
+    font-size: 20px;
+    position: absolute;
+    right: 70px;
+    top: 2px;
+    
+}

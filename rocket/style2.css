@@ -1,0 +1,150 @@
+* {
+        margin: 0;
+        padding: 0;
+        border: 0;
+        outline: 0;
+        font-size: 100%;
+
+}
+.redTab {
+    background-color: #E2120D;
+    height: 60px;
+    padding: 0px;
+    margin-top: 0px;
+    box-shadow: 0px 1px 20px #888888;
+}
+
+.book_text_heading {
+    color: white;
+    font-family: Montserrat;
+    align-self: center;
+    padding-left: 30px;
+    padding-top: 12px;
+    font-size: 25px
+}
+
+body {
+    padding: 0px;
+    margin: 0px;
+    box-sizing: border-box;
+}
+
+
+.moon_div {
+    width: 50%;
+    align-content: center;
+    margin-top: 10%;
+    float: left;
+}
+
+
+.journey_text {
+    text-align: center;
+    padding-top: 50px;
+    font-family: Montserrat;
+    font-weight: 600;
+    color: #565656;
+    font-size: 20px;
+    
+}
+
+.moon_pic {
+    margin-left: auto;
+	margin-right: auto;
+	display: block;
+    transition: transform .2s;
+}
+
+.moon_pic:hover {
+    transform: scale(1.3);
+}
+
+.journey_detail {
+    text-align: center;
+    padding-top: 30px;
+    font-family: Montserrat;
+    font-weight: 500;
+    color: #B4B4B4;
+    font-size: 16px;
+}
+
+.payload_div {
+    width: 50%;
+    align-content: center;
+    margin-top: 10%;
+    float: left;
+}
+
+.payload_img {
+    margin-left: auto;
+	margin-right: auto;
+	display: block;
+    transition: transform .2s;
+}
+
+.payload_img:hover {
+    transform: scale(1.3);
+}
+
+.payload_text {
+    text-align: center;
+    padding-top: 50px;
+    font-family: Montserrat;
+    font-weight: 600;
+    color: #565656;
+    font-size: 20px;
+}
+
+.payload {
+    text-align: center;
+    padding-top: 30px;
+    font-family: Montserrat;
+    font-weight: 500;
+    color: #B4B4B4;
+    font-size: 16px;
+}
+
+.main_content {
+    width: 1440px;
+    margin-top: 150px;
+    margin-left: auto;
+    margin-right: auto;
+    position: relative;
+}
+
+.select_text {
+    text-align: center;
+    font-family: Montserrat;
+    font-weight: 600;
+    color: #565656;
+    font-size: 35px;
+}
+
+.book_text_heading {
+    color: white;
+    font-family: Montserrat;
+    align-self: center;
+    padding-left: 30px;
+    padding-top: 14px;
+    font-size: 25px
+}
+
+
+
+.redTab {
+    background-color: #E2120D;
+    height: 60px;
+    padding: 0px;
+    margin-top: 0px;
+    box-shadow: 0px 1px 20px #888888;
+}
+
+.book_text_heading {
+    color: white;
+    font-family: Montserrat;
+    align-self: center;
+    padding-left: 30px;
+    padding-top: 17px;
+    font-size: 20px
+}
+

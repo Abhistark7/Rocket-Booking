@@ -1,0 +1,165 @@
+c* {
+        margin: 0;
+        padding: 0;
+        border: 0;
+        outline: 0;
+        font-size: 100%;
+
+}
+
+.redTab {
+    background-color: #E2120D;
+    height: 60px;
+    padding: 0px;
+    margin-top: 0px;
+    box-shadow: 0px 1px 20px #888888;
+}
+
+.book_text_heading {
+    color: white;
+    font-family: Montserrat;
+    align-self: center;
+    padding-left: 30px;
+    padding-top: 17px;
+    font-size: 20px
+}
+
+.container {
+     width: 1140px;
+    margin-left: auto;
+    margin-right: auto;
+    align-content: center;
+    margin-top: 50px;
+}
+
+.select_heading {
+    text-align: center;
+    padding-top: 50px;
+    font-family: Montserrat;
+    font-weight: 600;
+    color: #565656;
+    font-size: 25px;
+}
+
+.image-slider {
+    width: 600px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 50px;
+    align-content: center;
+    
+}
+
+.left_blue {
+    float: left;
+    margin-top: 180px;
+    width: 50px;
+    height: 50px;
+}
+
+.rocket_img {
+    display: none;
+    margin-left: 165px;
+}
+
+.right_blue {
+    float: right;
+    margin-top: 180px;
+    width: 50px;
+    height: 50px;
+}
+
+.available_rockets {
+    width: 900px;
+    margin-left: auto;
+    margin-right: auto;
+    align-content: center;
+    margin-top: 50px;
+    height: 60px;
+    border-radius: 5px 5px 5px 5px;
+    box-shadow: 0px 2px 5px #b9b9b9;
+}
+
+.available_text {
+    text-align: left;
+    padding-top: 20px;
+    font-family: Montserrat;
+    font-weight: 600;
+    color: #000000;
+    font-size: 18px;
+    padding-left: 40px;
+    float: left;
+}
+
+.rocket_val {
+    text-align: right;
+    padding-top: 20px;
+    font-family: Montserrat;
+    font-weight: 600;
+    color: #0077FF;
+    font-size: 18px;
+    padding-right: 40px;
+    float: right;
+}
+
+.select_seats {
+     width: 900px;
+    margin-left: auto;
+    margin-right: auto;
+    align-content: center;
+    margin-top: 50px;
+    height: 60px;
+    border-radius: 5px 5px 5px 5px;
+    box-shadow: 0px 2px 5px #b9b9b9;
+}
+
+.seats_text {
+    text-align: left;
+    padding-top: 20px;
+    font-family: Montserrat;
+    font-weight: 600;
+    color: #000000;
+    font-size: 18px;
+    padding-left: 40px;
+    float: left;
+}
+
+.select_val {
+    text-align: left;
+    padding-top: 20px;
+    font-family: Montserrat;
+    font-weight: 600;
+    color: #0077FF;
+    font-size: 18px;
+    padding-right: 40px;
+    float: right;
+}
+
+.next_button {
+     width: 900px;
+    margin-left: auto;
+    margin-right: auto;
+    padding-left: 450px;
+    align-content: center;
+    margin-top: 80px;
+    margin-bottom: 80px;
+}
+
+
+
+.container {
+    width: 1140px;
+    margin-left: auto;
+    margin-right: auto;
+    align-content: center;
+    margin-top: 50px;
+}
+
+.booking_heading {
+     text-align: center;
+    padding-top: 50px;
+    font-family: Montserrat;
+    font-weight: 600;
+    color: #565656;
+    font-size: 25px;
+}

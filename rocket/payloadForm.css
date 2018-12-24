@@ -1,0 +1,256 @@
+* {
+        margin: 0;
+        padding: 0;
+        border: 0;
+        outline: 0;
+        font-size: 100%;
+
+}
+
+.redTab {
+    background-color: #E2120D;
+    height: 60px;
+    padding: 0px;
+    margin-top: 0px;
+    box-shadow: 0px 1px 20px #888888;
+}
+
+.book_text_heading {
+    color: white;
+    font-family: Montserrat;
+    align-self: center;
+    padding-left: 30px;
+    padding-top: 14px;
+    font-size: 25px
+}
+
+.container {
+    width: 1140px;
+    margin-left: auto;
+    margin-right: auto;
+    align-content: center;
+    margin-top: 50px;
+}
+
+.moon_img {
+    margin-left: auto;
+	margin-right: auto;
+	display: block;
+}
+
+.journey_title {
+    text-align: center;
+    padding-top: 50px;
+    font-family: Montserrat;
+    font-weight: 600;
+    color: #565656;
+    font-size: 25px;
+}
+
+.journey_detail {
+    text-align: center;
+    padding-top: 20px;
+    font-family: Montserrat;
+    font-weight: 500;
+    color: #B4B4B4;
+    font-size: 18px;
+}
+
+.select_dates {
+    width: 900px;
+    margin-left: auto;
+    margin-right: auto;
+    align-content: center;
+    margin-top: 50px;
+    height: 60px;
+    border-radius: 5px 5px 5px 5px;
+    box-shadow: 0px 2px 5px #b9b9b9;
+}
+
+.sel_date_text {
+    text-align: left;
+    padding-top: 20px;
+    font-family: Montserrat;
+    font-weight: 600;
+    color: #000000;
+    font-size: 18px;
+    padding-left: 40px;
+    float: left;
+}
+
+.date_val {
+    text-align: left;
+    padding-top: 20px;
+    font-family: Montserrat;
+    font-weight: 600;
+    color: #0077FF;
+    font-size: 18px;
+    padding-right: 40px;
+    float: right;
+}
+
+.enter_name {
+    width: 900px;
+    margin-left: auto;
+    margin-right: auto;
+    align-content: center;
+    margin-top: 40px;
+    height: 60px;
+    border-radius: 5px 5px 5px 5px;
+    box-shadow: 0px 2px 5px #b9b9b9;
+}
+
+.name_text {
+    text-align: left;
+    padding-top: 20px;
+    font-family: Montserrat;
+    font-weight: 600;
+    color: #000000;
+    font-size: 18px;
+    padding-left: 40px;
+    float: left;
+}
+
+.name_val {
+    text-align: left;
+    padding-top: 20px;
+    font-family: Montserrat;
+    font-weight: 600;
+    color: #B4B4B4;
+    font-size: 18px;
+    padding-right: 40px;
+    float: right;
+}
+
+.enter_id {
+     width: 900px;
+    margin-left: auto;
+    margin-right: auto;
+    align-content: center;
+    margin-top: 40px;
+    height: 60px;
+    border-radius: 5px 5px 5px 5px;
+    box-shadow: 0px 2px 5px #b9b9b9;
+}
+
+.passport_text {
+    text-align: left;
+    padding-top: 20px;
+    font-family: Montserrat;
+    font-weight: 600;
+    color: #000000;
+    font-size: 18px;
+    padding-left: 40px;
+    float: left;
+}
+
+.passport_val {
+    text-align: left;
+    padding-top: 20px;
+    font-family: Montserrat;
+    font-weight: 600;
+    color: #B4B4B4;
+    font-size: 18px;
+    padding-right: 40px;
+    float: right;
+}
+
+.enter_email {
+     width: 900px;
+    margin-left: auto;
+    margin-right: auto;
+    align-content: center;
+    margin-top: 40px;
+    height: 60px;
+    border-radius: 5px 5px 5px 5px;
+    box-shadow: 0px 2px 5px #b9b9b9;
+}
+
+.email_text {
+    text-align: left;
+    padding-top: 20px;
+    font-family: Montserrat;
+    font-weight: 600;
+    color: #000000;
+    font-size: 18px;
+    padding-left: 40px;
+    float: left;
+}
+
+.email_val {
+    text-align: left;
+    padding-top: 20px;
+    font-family: Montserrat;
+    font-weight: 600;
+    color: #B4B4B4;
+    font-size: 18px;
+    padding-right: 40px;
+    float: right;
+}
+
+.enter_country {
+    width: 900px;
+    margin-left: auto;
+    margin-right: auto;
+    align-content: center;
+    margin-top: 40px;
+    height: 60px;
+    border-radius: 5px 5px 5px 5px;
+    box-shadow: 0px 2px 5px #b9b9b9;
+}
+
+.country_text {
+    text-align: left;
+    padding-top: 20px;
+    font-family: Montserrat;
+    font-weight: 600;
+    color: #000000;
+    font-size: 18px;
+    padding-left: 40px;
+    float: left;
+}
+
+.country_val {
+    text-align: left;
+    padding-top: 20px;
+    font-family: Montserrat;
+    font-weight: 600;
+    color: #B4B4B4;
+    font-size: 18px;
+    padding-right: 40px;
+    float: right;
+}
+
+.next_button {
+     width: 900px;
+    margin-left: auto;
+    margin-right: auto;
+    padding-left: 700px;
+    align-content: center;
+    margin-top: 80px;
+    margin-bottom: 80px;
+}
+}
+
+#go_button {
+    margin-left: auto;
+	margin-right: auto;
+	margin-left: 475px;
+}
+
+.redTab {
+    background-color: #E2120D;
+    height: 60px;
+    padding: 0px;
+    margin-top: 0px;
+    box-shadow: 0px 1px 20px #888888;
+}
+
+.book_text_heading {
+    color: white;
+    font-family: Montserrat;
+    align-self: center;
+    padding-left: 30px;
+    padding-top: 17px;
+    font-size: 20px
+}
