@@ -19,5 +19,5 @@ The design is unique, minimal and bold.
 ## Review Booking
 ![](screenshots/5ReviewBooking.PNG)
 
-## Select Rocket
+## Ticked Booked
 ![](screenshots/6moonBookedNew.PNG)
